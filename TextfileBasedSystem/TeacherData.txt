@@ -1,0 +1,9 @@
+10,Abhay,10th, A
+1,Nikhil,10th,B
+11,Faizan,9th,A
+12,Suhas,9th,B
+14,Nidhi,11th,A 
+15,Advika,11th,B
+18,Vishnu,6th,A
+19,Rajath,6th,C
+20,Krupa,5th,A
